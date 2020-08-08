@@ -6,7 +6,7 @@
     },
 
     "INVESTMENT": {
-        "BASE": "BTC",
+        "BASE": "USDT",
         "MIN": 0.015,
         "MAX": 0.035,
         "STEP": 0.005
